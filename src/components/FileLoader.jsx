@@ -5,10 +5,7 @@ import Chart, {
   ArgumentAxis,
   CommonSeriesSettings,
   Legend,
-  Series,
   Tooltip,
-  ValueAxis,
-  ConstantLine,
   Label,
   ZoomAndPan,
   Crosshair
